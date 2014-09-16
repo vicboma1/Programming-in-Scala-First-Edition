@@ -27,7 +27,7 @@ args
 ##ScalaIsEvenMoreFun
 ```
 Scale  Is  even  more  fun 
-``
+```
 
 ##ScaleIsFun
 ```
