@@ -7,6 +7,7 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 4](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter4)- Classes and Objects
 * [Chapter 5](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter5)- Basic Types and Operations
 * [Chapter 6](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter6)- Functional Objects
+* [Chapter 7](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter7)- Built-in Control Structures
 
 ###References :
 
