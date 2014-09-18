@@ -9,6 +9,7 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 6](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter6) - Functional Objects
 * [Chapter 7](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter7) - Built-in Control Structures
 * [Chapter 8](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter8) - Functions and Closures
+* [Chapter 9](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter9) - Control Abstraction
 
 ###References :
 
