@@ -19,7 +19,7 @@ object Closures {
   private def someNumbersFunction {
     val someNumbers = List(-11, -10, -5, 10, 5, 10)
     var sum = -1
-    someNumbers.toStream.foreach(i => sum += i)
+    someNumbers.toStream.foreach(sum += _)
     println(sum)
   }
 }
