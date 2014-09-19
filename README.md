@@ -10,6 +10,8 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 7](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter7) - Built-in Control Structures
 * [Chapter 8](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter8) - Functions and Closures
 * [Chapter 9](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter9) - Control Abstraction
+* [Chapter 10](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter10) - Composition and Inheritance
+
 
 ###References :
 
