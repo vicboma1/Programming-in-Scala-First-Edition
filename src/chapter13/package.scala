@@ -10,18 +10,14 @@ package bobsrockets {
 package navigation {
   class Navigator
 
-  package launch {
-    class Booster1
-  }
      package tests {
      class NavigatorSuite{
-       val nav = new navigation.Navigator
-     }
-    }
+         val nav = new navigation.Navigator
+       }
+      }
   }
 
   class MissionControl {
-    val booster1 = new launch.Booster1
     val booster2 = new bobsrockets.launch.Booster2
     val booster3 = new _root_.launch.Booster3  //Hidden
   }
