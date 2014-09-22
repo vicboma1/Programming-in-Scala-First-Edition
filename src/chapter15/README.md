@@ -23,11 +23,11 @@ no
 ## Sealed abstract Expr
 ```
 Exception
-``
+```
 
 ##Capital
 ```
 Map(France -> Paris, Japan -> Tokyo)
 Tokyo
 ?
-``
+```
