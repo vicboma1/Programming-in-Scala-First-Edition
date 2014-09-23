@@ -16,6 +16,7 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 13](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter13) - Packages and Imports
 * [Chapter 14](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter14) - Assertions and Unit Testing
 * [Chapter 15](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter15) - Case Classes and Pattern Matching
+Working with Lists
 
 ###References :
 
