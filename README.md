@@ -18,6 +18,7 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 15](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter15) - Case Classes and Pattern Matching
 * [Chapter 16](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter16) - Working with Lists
 * [Chapter 17](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter17) - Collections
+* [Chapter 18](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter18) - Stateful Objects
 
 
 ###References :
