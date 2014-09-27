@@ -20,6 +20,7 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 17](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter17) - Collections
 * [Chapter 18](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter18) - Stateful Objects
 * [Chapter 19](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter19) - Type Parameterization
+* [Chapter 20](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter20) - Abstract Members
 
 
 ###References :
