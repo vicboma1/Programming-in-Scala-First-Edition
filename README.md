@@ -23,6 +23,7 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 20](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter20) - Abstract Members
 * [Chapter 21](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter21) - Implicit Conversions and Parameters
 * [Chapter 22](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter22) - Implementing Lists
+* [Chapter 23](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter23) - For Expressions Revisited
 
 
 ###References :
