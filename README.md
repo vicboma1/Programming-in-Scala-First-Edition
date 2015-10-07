@@ -29,3 +29,7 @@ Examples of the book 'Programming in Scala, First Edition'
 ###References :
 
 * Martin Odersky, Lex Spoon, and Bill Venners.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/programming-in-scala-first-edition/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
