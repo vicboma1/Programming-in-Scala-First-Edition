@@ -1,7 +1,7 @@
 Examples of the book 'Programming in Scala, First Edition'
 ==================================
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vicboma1/programming-in-scala-first-edition/trend.png)](https://bitdeli.com/free "Bitdeli Badge")[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/programming-in-scala-first-edition/readme)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/programming-in-scala-first-edition/readme)](https://github.com/igrigorik/ga-beacon)
 
 * [Chapter 1](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter1) - A Scalable Language
 * [Chapter 2](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter2) - First Steps in Scala
@@ -26,7 +26,6 @@ Examples of the book 'Programming in Scala, First Edition'
 * [Chapter 21](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter21) - Implicit Conversions and Parameters
 * [Chapter 22](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter22) - Implementing Lists
 * [Chapter 23](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter23) - For Expressions Revisited
-* [Chapter 24](https://github.com/vicboma1/Programming-in-Scala-First-Edition/tree/master/src/chapter24) - Extractors
 
 ###References :
 
